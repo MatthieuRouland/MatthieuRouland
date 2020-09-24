@@ -1,4 +1,15 @@
-### Hi there 👋
+# Matthieu Rouland - PhD Candidate - R (and sugar) addicted
+
+I am not a Python library, I am a thinking toolbox.
+
+## Installation
+
+Use the profil manager [linkedin](https://pip.pypa.io/en/stable/) to contact me.
+
+```bash
+linkedin connect Matthieu-Rouland --msg="Hello, want to start a collaboration?" 
+```
+
 
 <!--
 **MatthieuRouland/MatthieuRouland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
