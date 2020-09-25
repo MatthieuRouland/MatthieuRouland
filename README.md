@@ -1,6 +1,6 @@
 # Matthieu Rouland - PhD Candidate - R (and sugar) addicted
 
-I am not a Python library, I am a thinking toolbox.
+I am not a Python library, I am a easygoing thinking toolbox.
 
 ## Installation
 
