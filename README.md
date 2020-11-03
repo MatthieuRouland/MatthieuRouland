@@ -1,4 +1,4 @@
-# Matthieu Rouland - PhD Candidate - R (and sugar) addicted
+# Matthieu Rouland - PhD Candidate - Python and R (and sugar) addicted
 
 I am not a Python library, I am an easygoing thinking toolbox.
 
