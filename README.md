@@ -4,7 +4,7 @@ I am not a Python library, I am an easygoing thinking toolbox.
 
 ## Installation
 
-Use the profil manager [linkedin](https://pip.pypa.io/en/stable/) to contact me.
+Use the profil manager [linkedin](https://linkedin.com/in/matthieu-rouland) to contact me.
 
 ```bash
 linkedin connect Matthieu-Rouland --msg="Hello, want to start a collaboration?" 
