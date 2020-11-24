@@ -10,7 +10,7 @@ Use the profil manager [linkedin](https://pip.pypa.io/en/stable/) to contact me.
 linkedin connect Matthieu-Rouland --msg="Hello, want to start a collaboration?" 
 ```
 
-## Languages included:
+## Languages included
 
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="Rstudio" width="26px" src="https://avatars0.githubusercontent.com/u/513560?s=200&v=4" />
